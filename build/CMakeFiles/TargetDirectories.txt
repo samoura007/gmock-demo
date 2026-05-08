@@ -1,0 +1,4 @@
+/home/samoura/jam/gmock-demo/build/CMakeFiles/runRegistrationTests.dir
+/home/samoura/jam/gmock-demo/build/CMakeFiles/test.dir
+/home/samoura/jam/gmock-demo/build/CMakeFiles/edit_cache.dir
+/home/samoura/jam/gmock-demo/build/CMakeFiles/rebuild_cache.dir
